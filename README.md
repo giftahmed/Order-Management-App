@@ -32,11 +32,11 @@ Key features include:
 #### **Steps to Import the App**
 1. Clone this repository to your local machine:  
    ```bash
-   git clone https://github.com/yourusername/order-management-app.git
+   https://github.com/giftahmed/Order-Management-App.git
    ```
 2. Log in to [PowerApps Maker Portal](https://make.powerapps.com/).
 3. Navigate to **Solutions** > **Import Solution**.
-4. Upload the `OrderManagementApp.zip` file from the repository.
+4. Upload the `OrderManagementApp_1_0_0_1_managed.zip ` file from the repository.
 5. Follow the prompts to import the solution into your environment.
 6. Open the imported solution, and click **Publish All Customizations**.
 
